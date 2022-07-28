@@ -1,0 +1,77 @@
+{
+  "project_info": {
+    "project_number": "26796088431",
+    "firebase_url": "https://panic-alarm-system-f791b.firebaseio.com",
+    "project_id": "panic-alarm-system-f791b",
+    "storage_bucket": "panic-alarm-system-f791b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:26796088431:android:3e5cd40728dd9442f4019a",
+        "android_client_info": {
+          "package_name": "com.example.panicalarmresponderapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "26796088431-h7bj7oq13nuhui8ols8m8k1qeq9e8imo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAN_quKeNCQ_gqREqbIr-DZ5FQCARnbcgU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "26796088431-h7bj7oq13nuhui8ols8m8k1qeq9e8imo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:26796088431:android:5e69db34e6cc53b2f4019a",
+        "android_client_info": {
+          "package_name": "com.example.panicalarmsystem"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "26796088431-29r8kg2ef29jgo63gdbm2c09h2gftutp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.panicalarmsystem",
+            "certificate_hash": "fa13c59d68b936d969a4d921570360501779d6c8"
+          }
+        },
+        {
+          "client_id": "26796088431-h7bj7oq13nuhui8ols8m8k1qeq9e8imo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAN_quKeNCQ_gqREqbIr-DZ5FQCARnbcgU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "26796088431-h7bj7oq13nuhui8ols8m8k1qeq9e8imo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,31 @@
+Events: 
+
+>> Panic Generation
+    >>> Operator Assignment
+    >>> Operator Acceptance
+    >>> Operator Assign Responder
+            >>>> Responder Acceptance
+            >>>> Responder Resolve
+    >>> Operator Close
+    >>> Operator Unclose
+    >>> Operator Resolve
+
+    >>> SuperVisor Assignment
+    >>> SuperVisor Acceptance
+    >>> SuperVisor Assign Operator
+    >>> SuperVisor Assign Responder
+            >>>> Responder Acceptance
+            >>>> Responder Resolve
+    >>> SuperVisor Close
+    >>> SuperVisor Resolve
+
+    >>> Customer Cancellation
+    >>> Customer Remarks
+    >>> 
+
+
+Logs Table Variables:
+
+Panic Id , Operator , SuperVisor , Responder , Action , 
+
+
